@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DMC project is a web application designed to [provide a brief description of the application's purpose].
+The DMC project is a web application designed to meeting managment.
 
 ## Features
 
