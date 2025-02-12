@@ -21,9 +21,13 @@ To set up the project locally, follow these steps:
 2. **Run npm install command to install all npm packages.**
    ```bash
    npm install
-   Run json-server --watch ./src/db/data.json --port 3005 command to run local API.
-   Run npm start command to open developer mode.
-   
-3.  **start the local service.**
+
+3. **Run the following command to satrt the project**
+   ```bash
+   json-server --watch ./src/db/data.json --port 3005 command to run local API.
+   set NODE_OPTIONS=--openssl-legacy-provider
+   npm start 
+
+4.  **start the local service.**
    ```bash
    Localhost port: http://localhost:3005/meetings
