@@ -25,9 +25,19 @@ To set up the project locally, follow these steps:
 3. **Run the following command to satrt the project**
    ```bash
    json-server --watch ./src/db/data.json --port 3005 command to run local API.
-   set NODE_OPTIONS=--openssl-legacy-provider
-   npm start 
+ 
 
-4.  **start the local service.**
+4. **Run the following command in your terminal:**
+   ```bash
+   set NODE_OPTIONS=--openssl-legacy-provider
+
+   For PowerShell, use:
+   $env:NODE_OPTIONS="--openssl-legacy-provider"
+
+5. ***Then, restart your app with:***
+   ```bash
+   npm start
+
+6.  **start the local service.**
    ```bash
    Localhost port: http://localhost:3005/meetings
