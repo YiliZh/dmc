@@ -24,7 +24,8 @@ To set up the project locally, follow these steps:
 
 3. **Run the following command to satrt the project**
    ```bash
-   json-server --watch ./src/db/data.json --port 3005 command to run local API.
+   npx json-server --watch src/db/data.json --port 3005
+
  
 
 4. **Run the following command in your terminal:**
