@@ -4,6 +4,7 @@ import Root from "./components/Root";
 import Calendar from "./components/Calendar";
 import Home from "./components/Home";
 import data from "./db/data.json";
+import MeetingDetails from "./components/MeetingDetails";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/calendar" element={<Calendar data={meetings}/>} />
+                    <Route path="/meeting/:id" element={<MeetingDetails />} />
                 </Routes>
             </Container>
         </Router>
