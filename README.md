@@ -19,8 +19,11 @@ To set up the project locally, follow these steps:
    cd dmc
 
 2. **Run npm install command to install all npm packages.**
-   ```Run json-server --watch ./src/db/data.json --port 3005 command to run local API.
-   ```Run npm start command to open developer mode.
+   ```bash
+   npm install
+   Run json-server --watch ./src/db/data.json --port 3005 command to run local API.
+   Run npm start command to open developer mode.
    
 3.  **start the local service.**
-   ```Localhost port: http://localhost:3005/meetings
+   ```bash
+   Localhost port: http://localhost:3005/meetings
