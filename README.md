@@ -11,9 +11,8 @@ The DMC project is a web application designed to meeting managment.
 
 ## Screenshots
 
-![Screenshot 1](./Screenshot-1.png)  
-![Screenshot 2](./Screenshot-2.png)
-![Screenshot 2](./public/Screenshot-1.png)
+![Screenshot 1](./public/Screenshot-1.png)
+![Screenshot 2](./public/Screenshot-2.png)
 
 ## Installation
 
