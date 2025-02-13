@@ -9,6 +9,11 @@ The DMC project is a web application designed to meeting managment.
 - [Meeting managment]:
 - [Study list]:
 
+## Screenshots
+
+![Screenshot 1](/screenshot-1.png)  
+![Screenshot 2](/screenshot-2.png)
+
 ## Installation
 
 To set up the project locally, follow these steps:
@@ -43,7 +48,4 @@ To set up the project locally, follow these steps:
    ```bash
    Localhost port: http://localhost:3005/meetings
 
-## **Screenshots**
 
-![Screenshot 1](/screenshot-1.png)  
-![Screenshot 2](/screenshot-2.png)
