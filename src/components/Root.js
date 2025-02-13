@@ -6,7 +6,7 @@ function Root() {
         <AppBar position="static">
             <Toolbar>
                 <Typography variant="h6" sx={{ flexGrow: 1 }}>
-                    My App
+                    CISC594 Group 6
                 </Typography>
                 <Button color="inherit" component={Link} to="/">
                     Home

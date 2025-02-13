@@ -6,7 +6,7 @@ The DMC project is a web application designed to meeting managment.
 
 ## Features
 
-- [Meeting manaegment]:
+- [Meeting managment]:
 - [Study list]:
 
 ## Installation
@@ -42,3 +42,7 @@ To set up the project locally, follow these steps:
 6.  **start the local service.**
    ```bash
    Localhost port: http://localhost:3005/meetings
+
+## Some screenshots 
+![](./public/screenshot-1.png)
+![](./public/screenshot-2.png)
