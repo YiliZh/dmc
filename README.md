@@ -43,7 +43,6 @@ To set up the project locally, follow these steps:
    ```bash
    Localhost port: http://localhost:3005/meetings
 
-
-### Screenshot
-![](/screenshot-1.png)
-![](/screenshot-2.png)
+### **Screenshots**
+![Screenshot 1](/screenshot-1.png)  
+![Screenshot 2](/screenshot-2.png)
